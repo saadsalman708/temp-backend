@@ -1,0 +1,9 @@
+.special {
+    background-color: #0000000e;
+    border: 1px solid #00000085;
+    padding: .6rem 1.4rem;
+    margin-top: 3rem;
+    width: fit-content;
+    border-radius: 2rem;
+    cursor: pointer;
+}
